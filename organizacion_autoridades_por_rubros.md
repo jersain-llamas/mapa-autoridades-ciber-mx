@@ -526,5 +526,3 @@ graph LR
 | Direcciones Generales de TIC de Secretarías de Estado | Federal - Centralizada | Múltiples | Normativo institucional, Operativo | Establecer controles de seguridad de información; supervisar sistemas de seguridad lógica; desarrollar políticas de seguridad | Reglamentos Interiores de: SICT Art. 30-XII; Anticorrupción Art. 67-III; Bienestar Art. 34-I; Turismo Art. 30-I | Cada Secretaría con DG de TIC |
 
 ---
-
-> ¿Quieres que te lo entregue también en **HTML** (para GitHub Pages) o en **PDF**? Puedo generar ambos a partir de este Markdown.
