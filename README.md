@@ -72,8 +72,7 @@ El **sistema jurídico-administrativo** en ciberseguridad está **fragmentado** 
 
 - El **diagrama** ofrece una vista de alto nivel del ecosistema y relaciones.
 
-<details>
-<summary><strong>Ver diagrama (Mermaid)</strong></summary>
+## Diagrama (Mermaid)
 
 ```mermaid
 graph LR
@@ -243,7 +242,7 @@ graph LR
     style Cat5 fill:#95a5a6,color:#fff,stroke:#7f8c8d,stroke-width:3px
 
 ```
-</details>
+
 
 ---
 ## 🤝 Sugerencias y mejoras
